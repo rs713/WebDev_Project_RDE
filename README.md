@@ -18,7 +18,13 @@
 
 ## Overview
 
-Wheels on Fire is a responsive, multi-page website showcasing John O’Reilly’s car collection, his story, and an archived community event. Built with HTML, CSS, and vanilla JavaScript, it includes interactive collection filters and a browser-only contact-form demo.
+Wheels on Fire is a responsive, multi-page automotive website originally developed as a **first-year Web Development group assignment** at **Technological University Dublin (TU Dublin)** as part of the **BSc (Hons) in Data Science and Artificial Intelligence** programme.
+
+The project was developed collaboratively by the **RDE Team**, providing practical experience in teamwork, front-end development, problem-solving, and Git-based version control.
+
+Built using **HTML5, CSS3, and vanilla JavaScript**, the website showcases a car collection, interactive vehicle filtering, an About page, an archived community event, and a contact form validation demo.
+
+Following the original university assignment, the website was further enhanced with improvements to **responsive design, accessibility, performance, and user experience**.
 
 ## Key features
 
